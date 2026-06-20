@@ -46,6 +46,7 @@ Competitive programmer — C++ is my weapon of choice when time limits apply.
 
 <div align="center">
 
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nushey&repo=portfolio&theme=github_dark&hide_border=true)](https://github.com/nushey/portfolio)
 [![agents-md-generator](https://github-readme-stats.vercel.app/api/pin/?username=nushey&repo=agents-md-generator&theme=github_dark&hide_border=true)](https://github.com/nushey/agents-md-generator)
 [![sdd-flow](https://github-readme-stats.vercel.app/api/pin/?username=nushey&repo=sdd-flow&theme=github_dark&hide_border=true)](https://github.com/nushey/sdd-flow)
 [![ContextManager](https://github-readme-stats.vercel.app/api/pin/?username=nushey&repo=ContextManager&theme=github_dark&hide_border=true)](https://github.com/nushey/ContextManager)
